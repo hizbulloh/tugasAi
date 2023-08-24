@@ -1,0 +1,51 @@
+Nama : Moh Ajuj Hizbulloh
+Artificial Intelligence In Industry 4.0 For Manufacturing Industry
+ 
+Analisis Git "Group Inclusive Tour". 
+Git merupakan sistem kontrol versi yang bersifat gratis dan sumber terbuka (open source). Ini berarti bahwa kode sumber Git dapat diakses dan dimodifikasi oleh siapa saja secara bebas. Tujuan utama dari Git adalah untuk mengelola perubahan pada kode sumber dalam suatu proyek, baik itu proyek berukuran besar atau sederhana. Git memungkinkan para pengembang bekerja secara bersama-sama pada proyek yang sama dan melacak setiap perubahan yang terjadi pada kode sumber. Dengan Git, para pengembang dapat bekerja secara kolaboratif, mengkoordinasikan upaya mereka, dan mengintegrasikan kontribusi mereka dengan lebih efisien. Terdapat dua system pada Git yaitu centralized dan distributed
+Centralized :
+Git centralized berkerja hanya dengan menggunakan satu server yang berfungsi untuk menyimpan data dari project
+Distributed :
+Git distributed bekerja dengan menyimpan data project di lokal dan juga di server. 
+
+Fitur Fitur Git
+A. Version control
+Yaitu menyimpan setiap perubahan yang diubah pada source code.
+
+
+B. Git Branch
+digunakan ketika developer akan menambahkan fitur baru atau memperbaiki bug.
+
+C. Merging
+
+
+D. Staging area
+dapat memilih perubahan mana yang akan di-commit ke repository.
+
+
+E. Git Rebase
+Git rebase digunakan untuk menggabungkan atau menggeser commit base. 
+
+F.        Hooks
+
+F. GUI tools
+Tols ini dapat untuk memudahkan penggunaan Git bagi pengguna yang kurang terbiasa dengan command line.
+
+
+
+Sejarah Git
+
+
+    Git awalnya ditulis oleh Linus Torvalds pada tahun 2005 untuk pengembangan kernel Linux, dengan pengembang kernel lain berkontribusi pada pengembangan awalnya. Sejak tahun 2005, Junio ??Hamano telah menjadi pengelola inti. Seperti kebanyakan sistem kontrol versi terdistribusi lainnya, dan tidak seperti kebanyakan sistem klien-server, setiap direktori Git di setiap komputer adalah repositori lengkap dengan riwayat lengkap dan kemampuan pelacakan versi lengkap, tidak bergantung pada akses jaringan atau server pusat. Git adalah perangkat lunak gratis dan sumber terbuka yang dibagikan di bawah lisensi khusus GPL.
+    Pengembangan Git dimulai oleh Torvalds pada bulan April 2005 ketika sistem manajemen kontrol sumber (SCM) berpemilik yang digunakan untuk pengembangan kernel Linux sejak tahun 2002, BitKeeper, mencabut lisensi gratisnya untuk pengembangan Linux. Pemegang hak cipta BitKeeper, Larry McVoy, mengklaim bahwa Andrew Tridgell telah menciptakan SourcePuller dengan merekayasa balik protokol BitKeeper. Insiden yang sama juga mendorong terciptanya sistem kontrol versi lain, Mercurial.
+
+Keuntungan Git:
+
+- Distribusi: Setiap pengembang memiliki salinan penuh dari seluruh repositori, yang memungkinkan bekerja secara independen bahkan saat offline. Ini juga menghindari titik kegagalan tunggal yang mungkin terjadi pada sistem terpusat.
+- Branching dan Merging yang Mudah: Git memungkinkan pembuatan cabang (branch) dari kode sumber. Ini memfasilitasi pengembangan fitur secara terisolasi dan penggabungan (merge) perubahan dengan lebih lancar.
+- Kecepatan dan Efisiensi: Git dirancang untuk cepat dan efisien, karena hanya perubahan yang diunggah, bukan keseluruhan berkas.
+- Histori Revisi yang Kuat: Git melacak sejarah revisi dengan sangat rinci, memungkinkan pengguna untuk melihat dan kembali ke revisi sebelumnya.
+- Kolaborasi yang Mudah: Para pengembang dapat berkontribusi pada proyek tanpa mengganggu kode sumber utama dan dapat dengan mudah menggabungkan kontribusi mereka.
+- Fleksibilitas: Git dapat digunakan untuk berbagai jenis proyek, dari perangkat lunak hingga proyek non-kode seperti dokumen.
+
+
